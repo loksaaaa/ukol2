@@ -1,0 +1,11 @@
+/* Header.css */
+
+.header-container {
+    border: 3px solid #add8e6; /* Set the border color to light blue and thickness to 3 pixels */
+    border-radius: 8px; /* Set border radius to make corners round */
+    padding: 10px;
+    margin-bottom: 15px; /* Optional margin to separate Header from other content */
+    text-align: center; /* Center the text */
+}
+
+/* Add more styles as needed */

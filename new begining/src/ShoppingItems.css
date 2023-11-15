@@ -1,0 +1,16 @@
+/* ShoppingItems.css */
+
+.shopping-items-container {
+    display: flex;
+    justify-content: space-between; /* Align items with space between */
+    border: 1px solid #ccc; /* Gray border */
+    border-radius: 8px; /* Rounded corners */
+    padding: 10px; /* Adjust padding as needed */
+}
+
+.add-item-button {
+    /* Optional: Add margin to separate the button from the container edges */
+    margin-left: auto; /* Move the button to the right */
+}
+
+/* Additional styling as needed */

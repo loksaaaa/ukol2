@@ -1,0 +1,10 @@
+/* ListDetail.css */
+
+.list-detail-container {
+    border: 5px solid #001f3f; /* Set the border color to dark blue and thickness to 5 pixels */
+    border-radius: 8px; /* Set border radius to make corners round */
+    padding: 15px;
+    margin: 10px; /* Optional margin for spacing */
+}
+
+/* Add more styles as needed */

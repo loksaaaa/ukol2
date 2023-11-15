@@ -1,0 +1,22 @@
+/* Member.css */
+
+.member-container {
+    border: 3px solid #ff69b4; /* Set the border color to pink and thickness to 3 pixels */
+    border-radius: 8px; /* Set border radius to make corners round */
+    padding: 10px;
+    margin-bottom: 10px; /* Optional margin to separate members */
+    display: flex;
+    justify-content: space-between; /* Align children components at each end */
+}
+
+/* Style the Remove button */
+.member-container button {
+    background-color: #ff69b4; /* Set the background color to pink */
+    color: #fff; /* Set the text color to white */
+    border: none;
+    border-radius: 5px;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+/* Add more styles as needed */

@@ -1,0 +1,20 @@
+/* MemberList.css */
+
+.member-list-container {
+    /* Add styles for the MemberList component container */
+    padding: 15px;
+    border: 3px solid #ff0000; /* Set the border color to red and thickness to 3 pixels */
+    border-radius: 8px; /* Set border radius to make corners round */
+}
+
+.shopping-list-name {
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+.member-list {
+    list-style-type: none; /* Remove default list styling */
+    padding: 0;
+}
+
+/* Add more styles as needed */

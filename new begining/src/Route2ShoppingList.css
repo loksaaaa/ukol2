@@ -1,0 +1,15 @@
+/* Route2ShoppingList.css */
+
+.shopping-list-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #f5f5f5;
+    border: 5px solid #000; /* Set the border color to black and increase thickness to 5 pixels */
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+
+/* Add more styles as needed */

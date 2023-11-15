@@ -1,0 +1,24 @@
+/* ShoppingListName.css */
+
+.shopping-list-name {
+    border: 3px solid #ff69b4; /* Set the border color to pink and thickness to 3 pixels */
+    border-radius: 8px; /* Set border radius to make corners round */
+    padding: 10px;
+    margin-bottom: 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+/* Style the Rename and Add Member buttons with a more basic look */
+.shopping-list-name button {
+    background-color: #f0f0f0;; /* Set the background color to white */
+    color: #000; /* Set the text color to black */
+    border: 1px solid #ccc; /* Add a thin border for a basic look */
+    border-radius: 5px;
+    padding: 5px 10px;
+    margin-right: 10px; /* Add margin to create more space between buttons */
+    cursor: pointer;
+}
+
+/* Add more styles as needed */

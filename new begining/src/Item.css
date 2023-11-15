@@ -1,0 +1,21 @@
+/* Item.css */
+
+.item-container {
+    display: flex;
+    justify-content: space-between; /* Align items with space between */
+    border: 1px solid #00ff00; /* Green border */
+    border-radius: 8px; /* Rounded corners */
+    padding: 10px; /* Adjust padding as needed */
+    margin-top: 10px; /* Add some margin to separate items */
+}
+
+.remove-button, .mark-as-done-button {
+    /* Optional: Add margin to separate the button from the container edges */
+    margin-left: auto; /* Move the button to the right */
+}
+
+.done {
+    background-color: #f0f0f0; /* Optional: Change the background color for the "done" state */
+}
+
+/* Additional styling as needed */

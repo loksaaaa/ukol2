@@ -1,0 +1,10 @@
+/* ItemList.css */
+
+.item-list-container {
+    border: 1px solid #ccc; /* Gray border */
+    border-radius: 8px; /* Rounded corners */
+    padding: 10px; /* Adjust padding as needed */
+    margin-top: 10px; /* Add some margin to separate from MemberList */
+}
+
+/* Additional styling as needed */
